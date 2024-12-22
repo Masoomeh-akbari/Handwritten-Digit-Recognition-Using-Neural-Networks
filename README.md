@@ -38,7 +38,7 @@ The project achieves high classification accuracy, effectively identifying handw
 
 - **Python Scripts**: Includes all scripts for data preprocessing, model building, training, and evaluation.
 - **Dataset**: The `dataset.mat` file used for handwritten digit recognition.
-- **Documentation**: The PDF file `Final-Report.pdf` in this repository contains the complete report with detailed explanations.
+- **Documentation**: The PDF file `Final_Report.pdf` in this repository contains the complete report with detailed explanations.
 
 
 
