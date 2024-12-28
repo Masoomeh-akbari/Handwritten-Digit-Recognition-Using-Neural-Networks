@@ -2,7 +2,7 @@
 
 This project was done in collaboration with Bing Wang, Behnaz Refahi, and Camille Mirmiran.
 
-We utilize the **MNIST dataset**, a widely recognized benchmark dataset for handwritten digit recognition. The dataset is included in this repository as `dataset.mat`.
+We utilize the **MNIST dataset**, a widely recognized benchmark dataset for handwritten digit recognition. The dataset is included in this repository as [`dataset.mat`](./dataset.mat).
 
 ## **Project Overview**
 
@@ -37,8 +37,8 @@ The project achieves high classification accuracy, effectively identifying handw
 ## **Repository Contents**
 
 - **Python Scripts**: Includes all scripts for data preprocessing, model building, training, and evaluation.
-- **Dataset**: The `dataset.mat` file used for handwritten digit recognition.
-- **Documentation**: The PDF file `Final_Report.pdf` in this repository contains the complete report with detailed explanations.
+- **Dataset**: The [`dataset.mat`](./dataset.mat) file used for handwritten digit recognition.
+- **Documentation**: The PDF file [`Final_Report.pdf`](./Final_Report.pdf) in this repository contains the complete report with detailed explanations.
 
 
 
